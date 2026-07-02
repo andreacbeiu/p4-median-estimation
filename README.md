@@ -7,6 +7,6 @@ This thesis aimed to address these gaps by analyzing which distribution-shape st
 
 Out of four potential descriptive statistics considered, a median estimate tracker was selected to be implemented into P4 for Tofino. The development/compilation environment for the seven different implementation attempts is as follows:
 
-Machine running Linux 22.04.05 LTS
-P4 SDE: Intel® P4 Studio Software Development Environment (SDE) - Open P4 Studio: https://github.com/p4lang/open-p4studio
+Machine running Linux 22.04.05 LTS\
+P4 SDE: Intel® P4 Studio Software Development Environment (SDE) - Open P4 Studio: https://github.com/p4lang/open-p4studio \
 Compiled for Tofino 1 Intel Switches
